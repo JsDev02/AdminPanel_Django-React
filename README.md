@@ -1,4 +1,4 @@
-# Panzofi_prueba
+# AdminPanel_Django-React
 
 ## Descripción
 
